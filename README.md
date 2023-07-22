@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Apolo Ocampo Ríos</h1>
 <h3 align="center">Soy un estudiante apasionado de la ingeniería en informática, con un enfoque especial en el desarrollo de software y la resolución de problemas tecnológicos. Mi objetivo es aprender para lograr contribuir al mundo de la tecnología mediante la creación de soluciones innovadoras y eficientes que mejoren la vida de las personas y la sociedad en general.</h3>
 
+ <img align="right" alt="GIF" src="https://github.com/ApoloOcampo/ApoloOcampo/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/apoloor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apoloor/" height="30" width="40" /></a>
